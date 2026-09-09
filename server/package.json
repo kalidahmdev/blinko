@@ -19,7 +19,7 @@
     "@aws-sdk/client-s3": "3.693.0",
     "@aws-sdk/lib-storage": "3.693.0",
     "@aws-sdk/s3-request-presigner": "3.693.0",
-    "@langchain/community": "^0.3.40",
+    "@langchain/community": "^1.1.29",
     "@libsql/client": "^0.15.4",
     "@libsql/core": "^0.15.4",
     "@libsql/linux-arm64-gnu": "0.5.8",
@@ -38,8 +38,8 @@
     "@tavily/core": "^0.3.7",
     "@trpc/server": "^11.4.4",
     "@types/express": "^5.0.1",
-    "adm-zip": "^0.5.16",
-    "ai": "4.3.16",
+    "adm-zip": "^0.6.0",
+    "ai": "5.0.52",
     "archiver": "^7.0.1",
     "axios": "^1.6.7",
     "bowser": "^2.11.0",
@@ -52,7 +52,7 @@
     "express-mcp-handler": "^0.3.0",
     "express-session": "^1.18.1",
     "feed": "^4.2.2",
-    "file-type": "^20.4.1",
+    "file-type": "^22.0.2",
     "jsonwebtoken": "^9.0.2",
     "mcp-handler": "^1.0.2",
     "music-metadata": "^11.2.0",
@@ -82,7 +82,7 @@
     "proxy-agent": "^6.5.0",
     "request-ip": "^3.3.0",
     "sanitize-filename": "^1.6.3",
-    "sharp": "0.34.1",
+    "sharp": "0.35.4",
     "sqlite3": "^5.1.7",
     "superjson": "^2.2.1",
     "swagger-jsdoc": "^6.2.8",
@@ -99,7 +99,7 @@
   },
   "resolutions": {
     "@langchain/core": "^0.3.40",
-    "sharp": "0.34.1"
+    "sharp": "0.35.4"
   },
   "devDependencies": {
     "@types/adm-zip": "^0.5.7",
